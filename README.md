@@ -12,6 +12,6 @@ I have to still work on the UI and JS component to create user interactions. The
 I was also thinking to add in-page filtering/searching later to the project using JS.
 
 
-
+To run the project on netbeans, just create a Java DB called Amazon. Run the SQL file then Scrap.java and then Get.java. I have used Glassfish server for the project
 
 
